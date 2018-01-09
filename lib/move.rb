@@ -17,4 +17,4 @@ def move(board, move, player = "X")
   array[index] = value
   end
 end
-display_board
+puts display_board
